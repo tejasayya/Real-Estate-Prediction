@@ -1,0 +1,4 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross income,gross margin percentage,Rating
+A123,A,City1,Member,Male,Health,15.5,5,3.88,81.48,2023-06-01,10:00,Cash,77.6,3.88,4.7619,8.4
+B456,B,City2,Normal,Female,Electronics,99.0,2,9.9,207.9,2023-06-02,15:30,Credit card,198.0,9.9,4.7619,7.2
+C789,C,City3,Member,Male,Clothing,45.3,3,6.79,142.59,2023-06-03,18:45,Ewallet,135.8,6.79,4.7619,9.0
